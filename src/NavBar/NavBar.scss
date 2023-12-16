@@ -1,0 +1,37 @@
+
+.mainbar{
+    position: absolute;
+    // top:300px;
+    left: 10px;
+    height: 100%;
+    // height:fit-content;
+    width: 250px;
+    color: blue;
+    background:rgb(73, 128, 0);
+    border-radius: 5px;
+}
+
+.btndiv{
+    position: relative;
+    top: 15px;
+    left: 100px;
+    height: 30px;
+    width: 20%;
+    border: 1px solid blue;
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+
+.formdiv{
+    position: relative;
+    top: 50px;
+    left: 5px;
+}
+
+.subbtn{
+    color: blue;
+    height: 30px;
+    border: 1 px solid blue;
+    background-color: aquamarine;
+    border-radius: 5px;
+}
