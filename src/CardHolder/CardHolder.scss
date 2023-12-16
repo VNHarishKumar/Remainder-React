@@ -1,0 +1,31 @@
+
+.card{
+    position: relative;
+    top:25px;
+    left: 250px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+
+}
+.cardid{
+    background-color: blue;
+    border-radius: 10px;
+    box-shadow: 0px 4 px 6px rgba(0,0,0,0.1);
+    padding: 20px;
+    width: 250px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 16px;
+}
+
+.btn-delete{
+    width: 50px;
+    border-radius: 5px;
+    color: aqua;
+    background: rgb(83, 128, 0);
+}
